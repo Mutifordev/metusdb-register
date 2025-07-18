@@ -1,6 +1,7 @@
 # metusdb-register-bot
 
-<a href="https://metehanstudio.com/">Web Sitesi</a>
+<a href="https://metehanstudio.com/">Web Sitesi</a><br>
+
 <a href="https://www.npmjs.com/package/metusbase">MetusDb :)</a>
 <br>
 <a href="https://discord.com/users/1179280051443867728">Muti Register Bot <3</a>
